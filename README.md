@@ -1,3 +1,7 @@
+# shopstack-react-exercise-01
+
+Bài tập 01
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
